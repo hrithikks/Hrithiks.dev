@@ -1,0 +1,1 @@
+Images are deliberately not downloaded. This static portfolio uses their saved external URLs. You may place replacement local files in this folder and update the exported HTML/data references if desired.
